@@ -1,0 +1,8 @@
+#ifndef SPRITE_SILVERWARE_H
+#define SPRITE_SILVERWARE_H
+
+#include "main.h"
+
+DECLARE_SPRITE(SPRITE_SILVERWARE);
+
+#endif
